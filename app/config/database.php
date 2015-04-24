@@ -57,7 +57,7 @@ return array(
 			'host'      => 'localhost',
 			'database'  => 'twitterapp',
 			'username'  => 'root',
-			'password'  => 'qwe123',
+			'password'  => '',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => 'tapp_',
